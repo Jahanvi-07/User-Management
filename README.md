@@ -59,3 +59,6 @@ A simple **User Management System** built with Node.js, Express, and MongoDB. Th
 * View all users in the system.
 * Edit or delete users as needed.
 
+
+## Screenshot
+<img width="1011" height="1012" alt="Image" src="https://github.com/user-attachments/assets/8bac009e-bf17-4bc6-9f64-d25ba542a825" />
